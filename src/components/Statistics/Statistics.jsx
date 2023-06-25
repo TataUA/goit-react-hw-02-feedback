@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import {Options} from './Statistics.styled';
+import { Options } from './Statistics.styled';
 
 export const Statistics = ({
   good,
